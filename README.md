@@ -16,6 +16,8 @@ This data was originally collected by researchers at MMLAB, The Chinese Universi
 
 For this dataset i used the architecture resnet50 to train my model with 1 epoch. The accuracy threshold was between 85% to 90% depending on the threshold.
 
+![alt text](https://github.com/Miske1996/Face-Features/blob/master/resnet50.jpg)
+
 # Testing my model.
 For testing the model i downloaded some some images from the internet to see what the model will predict. 
 
